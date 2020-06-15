@@ -20,4 +20,5 @@ You will also see any lint errors in the console.
 cd into the backend folder
 npm install
 nodemon app.js
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
